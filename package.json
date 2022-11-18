@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A command line program that takes employee info and generates to a HTML page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaileyM96/Team-Profile-Generator.git"
+  },
+  "author": "Bailey Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaileyM96/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/BaileyM96/Team-Profile-Generator#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
